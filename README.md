@@ -1,4 +1,4 @@
-<h1 align="center">Namaste, I'm Anshuman</h1>
+<h1 align="center">Namaste !!!, I'm Anshuman </h1>
 <h3 align="center">A passionate Machine and Deep Learning developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levi178u&label=Profile%20views&color=0e75b6&style=flat" alt="levi178u" /> </p>
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ichio_772" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ichio_772" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anshuman-panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshuman-panda" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anshuman-panda-49ab532b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshuman-panda" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ichigo_kurosaki_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ichigo_kurosaki_7" height="30" width="40" /></a>
 </p>
 
