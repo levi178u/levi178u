@@ -3,9 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levi178u&label=Profile%20views&color=0e75b6&style=flat" alt="levi178u" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=levi178u" alt="levi178u" /></a> </p>
-
-<img align ="right" src="https://user-images.githubusercontent.com/74038190/212262208-6e0cbfcb-1965-4b5e-9625-fee0a5d172d3.jpg" width="200" />
-<img align ="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a754eac4-5a8b-4e8f-922b-aff555400790" width="300">
+<img align ="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a754eac4-5a8b-4e8f-922b-aff555400790" width="325">
 
 
 - 🔭 I’m currently working on **MindMate**
@@ -34,7 +32,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=levi178u&show_icons=true&locale=en" alt="levi178u" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levi178u&" alt="levi178u" />
-<p><img  align="center" src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" width="400" /></p>
+<p><img align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=levi178u&" alt="levi178u" />
+<img  align="justify" src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" width="300" />
+<img align ="justify" src="https://user-images.githubusercontent.com/74038190/212262208-6e0cbfcb-1965-4b5e-9625-fee0a5d172d3.jpg" width="200" /><p>
 <br><br>
 
