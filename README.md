@@ -1,7 +1,7 @@
 <h1 align="center">Namaste !, I'm Anshuman </h1>
 <h3 align="center">A passionate Machine and Deep Learning developer from India</h3>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" align="right",width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="400">
 <br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levi178u&label=Profile%20views&color=0e75b6&style=flat" alt="levi178u" /> </p>
