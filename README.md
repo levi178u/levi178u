@@ -1,8 +1,8 @@
 <h1 align="center">Namaste !, I'm Anshuman </h1>
 <h3 align="center">A passionate Machine and Deep Learning developer from India</h3>
 
-- Working on Beach
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/26a48b1f-4716-4b8c-b58a-027f269c8c1f" width="500">
+- Coding in Peace
+<img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="500">
 <br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levi178u&label=Profile%20views&color=0e75b6&style=flat" alt="levi178u" /> </p>
