@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=levi178u" alt="levi178u" /></a> </p>
 
 <img align ="right" src="https://user-images.githubusercontent.com/74038190/212262208-6e0cbfcb-1965-4b5e-9625-fee0a5d172d3.jpg" width="200" />
-<img align ="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a754eac4-5a8b-4e8f-922b-aff555400790" width="320">
+<img align ="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a754eac4-5a8b-4e8f-922b-aff555400790" width="300">
 <br><br>
 - 🔭 I’m currently working on **MindMate**
 
