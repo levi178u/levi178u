@@ -1,12 +1,12 @@
 <h1 align="center">Namaste !, I'm Anshuman </h1>
 <h3 align="center">A passionate Machine and Deep Learning developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levi178u&label=Profile%20views&color=0e75b6&style=flat" alt="levi178u" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=levi178u" alt="levi178u" /></a> </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212262208-6e0cbfcb-1965-4b5e-9625-fee0a5d172d3.jpg" width="200" />
-
+<img align ="right" src="https://user-images.githubusercontent.com/74038190/212262208-6e0cbfcb-1965-4b5e-9625-fee0a5d172d3.jpg" width="200" />
+<img align ="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a754eac4-5a8b-4e8f-922b-aff555400790" width="320">
+<br><br>
 - 🔭 I’m currently working on **MindMate**
 
 - 🌱 I’m currently learning **TensorFlow and Deep Learning**
@@ -33,5 +33,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=levi178u&show_icons=true&locale=en" alt="levi178u" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levi178u&" alt="levi178u" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levi178u&" alt="levi178u" />
+<p><img  align="center" src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" width="400" /></p>
+<br><br>
 
