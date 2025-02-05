@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levi178u&label=Profile%20views&color=0e75b6&style=flat" alt="levi178u" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=levi178u" alt="levi178u" /></a> </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="200">
+<br><br>
 
 - 🔭 I’m currently working on **MindMate**
 
@@ -32,5 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=levi178u&show_icons=true&locale=en" alt="levi178u" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levi178u&" alt="levi178u" /></p>
-<img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="400">
-<br><br>
+
