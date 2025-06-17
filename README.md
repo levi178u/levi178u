@@ -6,13 +6,13 @@
 <img align ="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a754eac4-5a8b-4e8f-922b-aff555400790" width="325">
 
 
-- 🔭 I’m currently working on **MindMate**
+- 🔭 I’m currently working on **CP**
 
-- 🌱 I’m currently learning **TensorFlow and Deep Learning**
+- 🌱 I’m currently learning **Algos and Deep Learning**
 
-- 👯 I’m looking to collaborate on **MindMate**
+- 👯 I’m looking to collaborate on **Hackathons and Projects**
 
-- 💬 Ask me about **Numpy, Pandas, Py dev and Algos**
+- 💬 Ask me about **DSA, Py dev and Algos**
 
 - 📫 How to reach me **anshumancse201@gmail.com**
 
