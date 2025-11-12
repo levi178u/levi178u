@@ -14,14 +14,14 @@
 
 - 💬 Ask me about **DSA, Py dev and Algos**
 
-- 📫 How to reach me **anshumancse201@gmail.com**
+- 📫 How to reach me **kanhakalingo2115@gmail.com**
 
 - ⚡ Fun fact **I love to sleep**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ichio_772" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ichio_772" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anshuman-panda-49ab532b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshuman-panda" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kanha-kalingo-61aa182a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshuman-panda" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ichigo_kurosaki_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ichigo_kurosaki_7" height="30" width="40" /></a>
 </p>
 
